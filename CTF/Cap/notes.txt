@@ -1,0 +1,14 @@
+ftp 10.129.73.231
+
+nathan
+Buck3***
+
+ssh nathan@10.129.73.231
+Buck3***
+
+user.txt:
+31479a****
+
+root.txt:
+
+1dc7c8d****
